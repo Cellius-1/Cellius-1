@@ -2,8 +2,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cellius-1&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 # Welcome!
 My name is Tharun :) Tech's been my passion ever since I could touch a keyboard, and ever since, I've always been looking for new experiences.
-**My computer science interests include:**
+
+**My tech interests include:**
 - 📊 Data Science
 - 💻 Web Development
 - 👨‍💻 Cybersecurity
 - 🤖 Machine Learning
+- 
