@@ -41,7 +41,7 @@ _Outside of my technical endeavors, I also focus on other interests, **including
 
 _Contact me at my Discord[^1] or my email![^2]_
 
-**Special thanks to @intrepidbird for help with icons.**
+**Special thanks to [Alex Sheng](https://intrepidbird.me/) for help with icons.**
 
 [^1]: theren_0
 [^2]: tharun.nagul@gmail.com
