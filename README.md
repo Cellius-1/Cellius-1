@@ -40,6 +40,11 @@ _Outside of my technical endeavors, I also focus on other interests, **including
 ### Libraries
 _Matplotlib, Scipy, Pandas, and Seaborn_
 
+### Hackathon Projects
+<a href="https://devpost.com/Cellius-1">
+  <img alt="Devpost" src="https://img.shields.io/badge/Devpost-View%20%20my%20projects-informational?style=for-the-badge&logo=devpost&color=003E54&logoColor=003E54" />
+</a>
+
 
 _Contact me at my Discord[^1] or my email![^2]_
 
