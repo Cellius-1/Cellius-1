@@ -5,7 +5,7 @@
 > Thalapathy Vijay
 
 # Welcome!
-My name is Tharun :) I'm a student in the New Jersey area, planning to focus on data science and tech's been my passion ever since I could touch a keyboard, and ever since, I've always been looking for new experiences.
+My name is Tharun 👋
 
 **My tech interests include:**
 - 📊 Data Science
