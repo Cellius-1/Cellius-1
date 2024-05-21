@@ -40,16 +40,19 @@ _Outside of my technical endeavors, I also focus on other interests, **including
 ### Libraries
 _Matplotlib, Scipy, Pandas, and Seaborn_
 
-### Hackathon Projects
+### Contact
 <a href="https://devpost.com/Cellius-1">
   <img alt="Devpost" src="https://img.shields.io/badge/Devpost-View%20%20my%20projects-informational?style=for-the-badge&logo=devpost&color=003E54&logoColor=003E54" />
 </a>
+  <a href = "mailto: tharun.nagul@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-Email%20Me-informational?style=for-the-badge&logo=gmail&color=D14836&logoColor=FFFFFF">
+  </a>
 
 
-_Contact me at my Discord[^1] or my email![^2]_
+_Contact me at my Discord[^1] as well!_
 
-**Special thanks to [Alex Sheng](https://intrepidbird.me/) for help with icons.**
+**Special thanks to [Alex Sheng](https://intrepidbird.me/) for help with icons and other assets.**
 
 [^1]: theren_0
-[^2]: tharun.nagul@gmail.com
+
 
