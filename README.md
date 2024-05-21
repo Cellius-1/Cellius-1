@@ -5,7 +5,8 @@
 > Thalapathy Vijay
 
 # Welcome!
-My name is Tharun 👋
+
+## My name is Tharun 👋
 
 **My tech interests include:**
 - 📊 Data Science
