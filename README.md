@@ -8,19 +8,9 @@
 
 ## My name is Tharun 👋
 
-**My tech interests include:**
-- 📊 Data Science
-- 💻 Web Development
-- 👨‍💻 Cybersecurity
-- :dependabot: Machine Learning
-- 📱 App Development
+- I believe that numbers tell a greater story than *words ever could*, and I want to use this passion to change the world through the power of data. 📊
+- I'm always looking for new opportunities. Contact me through my email or Discord if my repetoire interests you! 👀
 
-Some projects I'm currently working on include a nonprofit to empower children in third-world countries to have basic computer science education, my portfolio website, and some other data science projects ;)
-
-_Outside of my technical endeavors, I also focus on other interests, **including:**_
-- 🎥 Film
-- 🎨 Graphic Design
-- 🤼 Wrestling
 
 ## Languages and Tools
 
