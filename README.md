@@ -5,7 +5,7 @@
 ## My name is Tharun 👋
 
 - I believe that numbers tell a greater story than *words ever could*, and I want to use this passion to change the world through the power of data. 📊
-- I'm always looking for new opportunities. Contact me through my email or Discord if my repetoire interests you! 👀
+- I'm always looking for new opportunities. Contact me through my email or Discord if my resume interests you! 👀
 
 
 ## Languages and Tools
