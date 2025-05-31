@@ -28,8 +28,6 @@ _Matplotlib, Scipy, Pandas, Statsmodels, and Seaborn_
 
 _Contact me at my Discord[^1] as well!_
 
-**Special thanks to [Alex Sheng](https://intrepidbird.me/) for help with icons and other assets.**
-
 [^1]: theren_0
 
 
