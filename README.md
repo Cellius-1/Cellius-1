@@ -5,7 +5,8 @@
 ## My name is Tharun 👋
 
 - I believe that numbers tell a greater story than *words ever could*, and I want to use this passion to change the world through the power of data. 📊
-- I'm always looking for new opportunities. Contact me through my email or Discord if my resume interests you! 👀
+- View my complete resume on LinkedIn - https://www.linkedin.com/in/tharun-naguleswaran-55a52a360/
+- I'm always looking for new opportunities. Contact me through my email, LinkedIn, or Discord if my resume interests you! 👀
 
 
 ## Languages and Tools
